@@ -10,17 +10,14 @@ if(operacao == "+" || operacao == "soma"){
     resultado = Number(numero1) + Number(numero2)
     alert(`A operação deu ${resultado}`)
 }
-
 if(operacao == "-" || operacao == "subtração"){
     resultado = Number(numero1) - Number(numero2)
     alert(`A operação deu ${resultado}`)
 }
-g
 if(operacao == "*" || operacao == "multiplicação"){
     resultado = Number(numero1) * Number(numero2)
     alert(`A operação deu ${resultado}`)
 }
-
 if(operacao == "/" || operacao == "divisão"){
     resultado = Number(numero1) / Number(numero2)
     alert(`A operação deu ${resultado}`)

@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+.menu-conteiner{
+    background-color: brown;
+    
+}
+
+.conteiner{
+    display: flex;
+    background-color: blue;
+    color: aliceblue;
+    justify-content: space-between;
+    
+}
